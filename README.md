@@ -53,7 +53,7 @@ https://Ganapakakomal2003.github.io/tic-tac-toe/
 
 ## 🙌 Author
 
-👨‍💻 Ganapaka Komal Babu
-🎓 Student at Sreenidhi Institute of Science and Technology
-💡 Goal: To become a Software Engineer
+👨‍💻 Ganapaka Komal Babu.
+🎓 Student at Sreenidhi Institute of Science and Technology.
+💡 Goal: To become a Software Engineer.
    

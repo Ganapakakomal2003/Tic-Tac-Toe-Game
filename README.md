@@ -1,6 +1,5 @@
 # 🎮 Tic-Tac-Toe Game  
 
-<img src="icon.webp" alt="Game Logo" width="80" height="80">  
 
 A simple and interactive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**.  
 Play against a friend, track the winner, and reset or start a new game anytime!  

@@ -44,7 +44,7 @@ Play against a friend, track the winner, and reset or start a new game anytime!
 ## 📥 Installation / Run Locally  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/Ganapakakomal2003/tic-tac-toe.git
 2. Open The project folder.
 3. run index.html in your Browser.
 
